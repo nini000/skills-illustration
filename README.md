@@ -3,7 +3,9 @@ Claude skills for the illustration pipeline: concept brainstorm → Figma finish
 
 [中文](#中文) · [English](#english)
 
+
 ---
+
 
 ## 中文
 
@@ -65,6 +67,7 @@ Prompt brainstorming
 從 Releases 下載新版 zip，再到 Claude.ai 重新上傳。
 
 ---
+
 
 ## English
 
