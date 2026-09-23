@@ -1,8 +1,6 @@
 # skills-illustration
 Claude skills for the illustration pipeline: concept brainstorm → Figma finishing
 
-# Illustration Skills
-
 [中文](#中文) · [English](#english)
 
 ---
